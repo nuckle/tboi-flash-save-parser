@@ -21,7 +21,7 @@ npm install tboi-flash-save-parser
 
 ## Common Questions
 
-1. Where is `serial.txt`?
+### 1. Where is `serial.txt`?
 
 The `serial.txt` file is typically found in the game's directory, alongside the executable.
 
@@ -29,7 +29,7 @@ The `serial.txt` file is typically found in the game's directory, alongside the 
 - **Mac**: `~/Library/Application Support/Steam/SteamApps/common/the binding of isaac rebirth/`
 - **Linux**: `~/.steam/steam/steamapps/common//The Binding Of Isaac/`
 
-2. My progress isn't changing or nothing gets unlocked!
+### 2. My progress isn't updating or nothing gets unlocked!
 
 If your save data doesn't seem to update, try deleting your `so.sol` file. This file is deprecated but still used by the game to sync with `serial.txt`.
 
