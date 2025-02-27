@@ -1,6 +1,6 @@
 # The Binding of Isaac Flash Save Parser
 
-A parser for The Binding of Isaac (Flash version) `serial.txt` save file.
+A parser for [The Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/) (Flash version) `serial.txt` save file.
 
 ## Features
 
